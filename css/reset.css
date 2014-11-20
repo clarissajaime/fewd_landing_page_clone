@@ -34,20 +34,4 @@ body {
 ol, ul {
     list-style: none;
 }
-/* End of Reset */
-/* Start of Custom Styles */
-.content {
-    margin: 0 auto;
-    width: 970px;
-    height: 70px;
-    padding: 0 0.938rem;
-	min-width: 37.5rem;
-}
-/* Navigation Section */
-.top-navigation {
-    background-color: #fff;
-}
 
-.top-navigation .logo {
-    height: 70px;
-}s

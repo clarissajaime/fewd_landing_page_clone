@@ -9,6 +9,7 @@ body {
 	color: #838994; 
 	letter-spacing: 0.03em;
 }
+
 div {
     border: 1px solid Chocolate;
 }
@@ -17,6 +18,25 @@ section {
 }
 
 /*header block*/
+
+.content {
+    margin: 0 auto;
+    width: 970px;
+    height: 70px;
+    padding: 0 0.938rem;
+	min-width: 37.5rem;
+}
+/* Navigation Section */
+.top-navigation {
+    background-color: #fff;
+    position: fixed;
+	width: 100%;
+	z-index: 9999;
+}
+
+.top-navigation .logo {
+    height: 70px;
+}
 
 .top-navigation .links {
     float: right;
