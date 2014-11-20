@@ -37,17 +37,17 @@ ol, ul {
 /* End of Reset */
 /* Start of Custom Styles */
 .content {
-    padding: 0 15px;
+    margin: 0 auto;
+    width: 970px;
+    height: 70px;
+    padding: 0 0.938rem;
+	min-width: 37.5rem;
 }
 /* Navigation Section */
 .top-navigation {
     background-color: #fff;
 }
-.top-navigation > .content {
-    margin: 0 auto;
-    width: 970px;
-    height: 70px;
-}
+
 .top-navigation .logo {
     height: 70px;
 }s
